@@ -1,0 +1,11 @@
+#总纲
+
+#开发环境
+path:config/path_local_win
+
+#linux测试环境
+#path:config/path_test_linux
+
+#正式环境
+#path:config/path_formal
+
